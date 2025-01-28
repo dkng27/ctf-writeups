@@ -2,6 +2,6 @@
 
 Writeups for 3 web challenges I solved:
 
-- [Med Graph](./Med%20Graph/readme.md)
-- [My First Secret](./My%20First%20Secret/readme.md)
-- [Shopping Time](./Shopping%20Time/readme.md)
+- [Med Graph](./Med%20Graph/)
+- [My First Secret](./My%20First%20Secret/)
+- [Shopping Time](./Shopping%20Time/)
